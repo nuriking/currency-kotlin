@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">currency_test</string>
+    <string name="update_currency">Обновить</string>
+</resources>
